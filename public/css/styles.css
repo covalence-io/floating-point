@@ -1,0 +1,33 @@
+body {
+    padding: 1em;
+    margin: 0;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.container {
+    width: 30em;
+    max-width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container input {
+    width: 5em;
+    text-align: center;
+}
+
+.container span {
+    margin: 0 0.5em;
+}
+
+.btn-container {
+    margin-top: 1em;
+}
+
+#result {
+    margin-top: 1em;
+    font-weight: bold;
+}
